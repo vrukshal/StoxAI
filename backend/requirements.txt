@@ -25,3 +25,8 @@ questionary
 langchain-google-genai
 alpaca-trade-api
 google-genai
+# Backend API dependencies
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
